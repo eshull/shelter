@@ -7,8 +7,24 @@ img {
 }
 .animal{
   width: 31%;
-  margin-right: 1%;
+  margin-bottom: 40px;
+  margin-right: 3%;
   float: left;
+  background: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+h1,
+h2,
+h3 {
+  font-family: 'Patrick Hand', cursive;
+}
+p {
+  font-family: sans-serif;
+}
+.animal p,
+.animal h3,
+.animal h4 {
+  padding: 0px 15px;
 }
 .animal:nth-of-type(3),
 .animal:nth-of-type(6) {
