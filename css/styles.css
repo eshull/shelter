@@ -21,10 +21,16 @@ h3 {
 p {
   font-family: sans-serif;
 }
+.animal h3 {
+  font-size: 35px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
 .animal p,
 .animal h3,
 .animal h4 {
   padding: 0px 15px;
+  margin: 20px 5px;
 }
 .animal:nth-of-type(3),
 .animal:nth-of-type(6) {
