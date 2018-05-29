@@ -56,3 +56,13 @@ background-image: url(../img/spring.png);
 .header img {
   width:100%;
 }
+
+/*.dark {
+  background-color: darkgrey;
+  color: white;
+}*/
+
+.dark {
+  background-color: darkgrey;
+  color: white;
+}
