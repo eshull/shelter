@@ -2,7 +2,8 @@
 
 #### _{Website for the Epicodus Animal Shelter}, {May 23 2018}_
 
-#### By _**{Ryan Putman and Eric Shull}**_
+#### Originally By _**{Ryan Putman and Eric Shull}**_
+#### Dark and Light themes added by Eric Shull and Rita Bennett-Chew
 
 ## Description
 

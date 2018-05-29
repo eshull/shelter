@@ -1,5 +1,10 @@
 $(document).ready(function() {
-  $("h1").click(function(){
+  $(".btn-dark").click(function(){
     $(".animal").addClass("dark");
+    $("body").addClass("dark");
+  });
+  $(".btn-light").click(function(){
+    $(".animal").removeClass("dark");
+    $("body").removeClass("dark");
   });
 });

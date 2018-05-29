@@ -65,4 +65,5 @@ background-image: url(../img/spring.png);
 .dark {
   background-color: darkgrey;
   color: white;
+  background-image: none;
 }
